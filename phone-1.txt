@@ -1,8 +1,5 @@
 phone
-<<<<<<< HEAD
 apps - movies
-=======
 apps - games
->>>>>>> games
 touchscreen
 scratchless - gorilla glass
